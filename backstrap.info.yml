@@ -1,0 +1,6 @@
+name: Backstrap
+type: theme
+description: The wieni backend bootstrap theme.
+core: 8.x
+# Defines the base theme
+base theme: bootstrap
