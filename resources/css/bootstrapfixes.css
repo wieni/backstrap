@@ -1,0 +1,17 @@
+/* 
+
+  This is a simple test.
+
+  Rob Brown is not a css maker person dude.
+*/
+
+/* fix the checkbox issue on admin/content */
+.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {
+  position: absolute;
+  margin-left: 0px;
+  margin-top: -4px \9;
+}
+
+input[type="radio"], input[type="checkbox"] {
+  margin: -6px 0 0 0;
+}

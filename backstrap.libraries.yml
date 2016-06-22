@@ -1,0 +1,8 @@
+bootstrapfixes:
+  remote: http://wieni.be
+  version: 0.0.0
+  license:
+    name: FREE
+  css:
+    theme:
+      resources/css/bootstrapfixes.css: {}
